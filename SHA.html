@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>FitCheck - Smart Health Analyzer</title>
+  <link rel="stylesheet" href="Fitcheck.css" />
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+  <div class="container">
+    <h2>FitCheck - Smart Health Analyzer</h2>
+    
+    <label>Age:</label>
+    <input type="number" id="age" placeholder="Enter your age" />
+
+    <label>Gender:</label>
+    <select id="gender">
+      <option value="male">Male</option>
+      <option value="female">Female</option>
+    </select>
+
+    <label>Weight (in kg):</label>
+    <input type="number" id="weight" placeholder="Enter your weight" />
+
+    <label>Height (in meters):</label>
+    <input type="number" step="0.01" id="height" placeholder="Enter your height" />
+
+    <button onclick="analyzeHealth()">Analyze</button>
+
+    <div class="result" id="output"></div>
+    <canvas id="bmiChart" width="400" height="200" style="margin-top: 30px;"></canvas>
+  </div>
+
+  <script src="Fitcheck.js"></script>
+</body>
+</html>
