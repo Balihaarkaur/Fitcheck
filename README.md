@@ -14,6 +14,12 @@
 - 🎨 **Clean UI** – Fully responsive and styled interface with separate CSS.
 
 ---
+## Fitcheck Preview  
+
+   -https://drive.google.com/file/d/1nn_q6MS0LaVAzCyLTp_IkjrEuuek4OlS/view?usp=sharing
+   -https://drive.google.com/file/d/1i2FTfMAoUmv0ker-yATDoogs4Kz7fE_5/view?usp=sharing
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -26,13 +32,16 @@
 FitCheck uses Chart.js to visualize the BMI in an interactive bar chart. Learn more about it at Chart.js Documentation (https://www.chartjs.org/docs/latest/).
 
 
-##Learning Goals
-  
- - DOM manipulation
- - Conditional logic in JavaScript
- - Using localStorage for persistence
- - Integrating external libraries (Chart.js)
-   
+🧠 Learning Goals
+DOM manipulation
+
+Conditional logic in JavaScript
+
+Using localStorage for persistence
+
+Integrating external libraries (Chart.js)
+
+Modularizing code (HTML, CSS, JS in separate files)
 
 👩‍💻 Author
 Balihaar Kaur
