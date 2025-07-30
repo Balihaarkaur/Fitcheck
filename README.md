@@ -31,17 +31,17 @@
 📈 Chart.js Integration
 FitCheck uses Chart.js to visualize the BMI in an interactive bar chart. Learn more about it at Chart.js Documentation (https://www.chartjs.org/docs/latest/).
 
+---
 
-🧠 Learning Goals
-DOM manipulation
-
-Conditional logic in JavaScript
-
-Using localStorage for persistence
-
-Integrating external libraries (Chart.js)
-
-Modularizing code (HTML, CSS, JS in separate files)
+## 🧠 Learning Goals 
+  
+  -DOM manipulation
+  -Conditional logic in JavaScript
+  -Using localStorage for persistence
+  -Integrating external libraries (Chart.js)
+  -Modularizing code (HTML, CSS, JS in separate files)
+  
+---
 
 👩‍💻 Author
 Balihaar Kaur
